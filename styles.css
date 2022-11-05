@@ -1,0 +1,12 @@
+body{background-color: bisque;}
+img{width: 400px; height: 300px;}
+h1{text-align: center; color: brown; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h2{text-align: center; color: red;}
+a{text-decoration: none; color: blue;}
+header p{display: inline-block; padding-right: 4px; }
+.p{color: brown; font-weight: 900;}
+.images{justify-content: space-evenly;display: flex;}
+.list1{list-style-type: decimal;}
+.list2 li {float: left; margin-right: 30px;}
+body{padding: 20px;}
+.images p{display: inline-block; margin-right: 30px;}
